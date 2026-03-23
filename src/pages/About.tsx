@@ -1,6 +1,6 @@
 import React from "react";
 
 const About = () => {
-  return <div>Estamos en About</div>;
+  return <div className="min-h-screen">Estamos en About</div>;
 };
 export default About;

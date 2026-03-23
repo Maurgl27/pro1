@@ -1,6 +1,6 @@
 import React from "react";
 
 const Home = () => {
-  return <div>Estamos en home</div>;
+  return <div className="min-h-screen">Estamos en home</div>;
 };
 export default Home;

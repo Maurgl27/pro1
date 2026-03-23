@@ -14,3 +14,7 @@ body {
 * {
   box-sizing: border-box;
 }
+/*Con esto, al hacer clic en cualquier enlace con #id, la página se desplazará suavemente hasta el elemento con ese id*/
+html {
+  scroll-behavior: smooth;
+}
