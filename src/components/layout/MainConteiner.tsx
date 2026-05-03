@@ -5,7 +5,7 @@ import Contact from "../../pages/Contact";
 const MainConteiner = ({ children }: { children: React.ReactNode }) => {
   return (
     <>
-      <section id="home">
+      {/*<section id="home">
         <Home />
       </section>
       <section id="about">
@@ -13,7 +13,7 @@ const MainConteiner = ({ children }: { children: React.ReactNode }) => {
       </section>
       <section id="contact">
         <Contact />
-      </section>
+      </section>*/}
       {/* Contenedor para el contenido dinámico (blog, etc.) */}
       {children}
     </>
